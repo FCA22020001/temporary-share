@@ -1,4 +1,4 @@
-namespace famiry{
+namespace family{
     public class Support : Parent{
         public bool human = true;
         public float age = 15f;

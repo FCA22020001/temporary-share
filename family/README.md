@@ -1,7 +1,7 @@
 # parent.cs
 
 ```cs
-namespace famiry{
+namespace family{
     public class Parent : Monobehavior{
         [HideInInspector] public Child child;
         [HideInInspector] public Support support;
